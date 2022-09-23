@@ -2,7 +2,7 @@
 
 # This file produce some printing
 
-print("Hello world")
+print("Jean Lassalle")
 
 
 # We introduce some interaction with the user
